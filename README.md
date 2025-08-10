@@ -1,4 +1,6 @@
-# Agentic RAG with Redis Vector Store
+# Agentic RAG with Redis Vector Store 
+
+**Thanks to Windsurf and https://github.com/redis-developer/redis-ai-resources/blob/main/python-recipes/agents/00_langgraph_redis_agentic_rag.ipynb**
 
 A sophisticated Retrieval-Augmented Generation (RAG) system built with LangGraph that leverages Redis as a high-performance vector store and includes comprehensive evaluation using LangSmith.
 
