@@ -30,7 +30,6 @@ agentic-RAG-Redis/
 The agentic RAG system is built using LangGraph with the following node structure:
 
 ![alt text](image.png)
-![alt text](image-2.png)
 
 ### Core Components
 
@@ -122,6 +121,9 @@ Redis vector store supports:
 
 ## 📊 LangSmith Evaluator Integration
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
+
 
 ### Evaluation Framework
 
